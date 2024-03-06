@@ -19,12 +19,11 @@ Data structures are fundamental building blocks in computer science, essential f
 Currently, the following data structures are included in this repository:
 
 - [Arrays](https://github.com/Dragonflip/datastructures/blob/master/src/01_Array.ipynb)
+- [Stacks & Qeueus](https://github.com/Dragonflip/datastructures/blob/master/src/02_Queue.ipynb)
 - [Linked Lists](https://github.com/Dragonflip/datastructures/blob/master/src/03_LinkedList.ipynb)
-- [Stacks](https://github.com/Dragonflip/datastructures/blob/master/src/02_Queue.ipynb)
-- [Queues](https://github.com/Dragonflip/datastructures/blob/master/src/02_Queue.ipynb)
 - [Trees](https://github.com/Dragonflip/datastructures/blob/master/src/04_Tree.ipynb)
-- Graphs
 - Hash Tables
+- Graphs
 - Heaps
 
 Each data structure is organized into its own directory, containing relevant documentation, implementations in various programming languages, and examples illustrating its usage.
@@ -33,13 +32,34 @@ Each data structure is organized into its own directory, containing relevant doc
 
 To make the most out of this repository, follow these steps:
 
-1. **Explore the Documentation**: Begin by reading the documentation provided for each data structure to understand its properties, operations, and use cases.
+1. **Explore This Repository**: Begin by reading the resume provided for each data structure to understand its properties, operations, and use cases.
    
-2. **Review Implementations**: Delve into the implementation code available in different programming languages. Compare and contrast implementations to gain insights into language-specific nuances and best practices.
-   
-3. **Experiment with Examples**: Experiment with provided examples to see how each data structure can be utilized in real-world scenarios. Tinker with the code, modify parameters, and observe the outcomes.
+2. **Questions**: Try to solve the Questions and compare with my solutions.
 
-4. **Contribute**: If you discover any errors, have suggestions for improvements, or want to contribute additional data structure implementations or examples, feel free to submit a pull request. Contributions from the community are highly appreciated!
+3. **Contribute**: If you discover any errors, have suggestions for improvements, or want to contribute additional data structure implementations or examples, feel free to submit a pull request. Contributions from the community are highly appreciated!
+
+## Running
+
+install poetry
+```
+pip install poetry
+```
+
+use poetry to creting the virtual environment and install dependencies
+```
+cd datastructures
+poetry install
+```
+
+use poetry to activate the virtual environment
+```
+poetry shell
+```
+
+initialize the jupyter notebook
+```
+jupyter notebook
+```
 
 ## Contributing
 

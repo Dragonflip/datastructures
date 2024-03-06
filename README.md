@@ -18,11 +18,11 @@ Data structures are fundamental building blocks in computer science, essential f
 
 Currently, the following data structures are included in this repository:
 
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Trees (Binary Trees, Binary Search Trees, AVL Trees, etc.)
+- [Arrays](https://github.com/Dragonflip/datastructures/blob/master/src/01_Array.ipynb)
+- [Linked Lists](https://github.com/Dragonflip/datastructures/blob/master/src/03_LinkedList.ipynb)
+- [Stacks](https://github.com/Dragonflip/datastructures/blob/master/src/02_Queue.ipynb)
+- [Queues](https://github.com/Dragonflip/datastructures/blob/master/src/02_Queue.ipynb)
+- [Trees](https://github.com/Dragonflip/datastructures/blob/master/src/04_Tree.ipynb)
 - Graphs
 - Hash Tables
 - Heaps

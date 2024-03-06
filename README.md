@@ -45,7 +45,7 @@ install poetry
 pip install poetry
 ```
 
-use poetry to creting the virtual environment and install dependencies
+use poetry to craete the virtual environment and install dependencies
 ```
 cd datastructures
 poetry install
